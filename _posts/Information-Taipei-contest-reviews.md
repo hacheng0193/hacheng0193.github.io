@@ -1,6 +1,7 @@
 ---
-title: 2021 台北市資訊學科能力競賽
+title: '2021 台北市資訊學科能力競賽'
 date: 2021-11-14 13:09:24
+permalink: /posts/2021/11/Information-Taipei-contest-reviews/
 tags: 
 - [資訊] 
 - [學科能力競賽(地區複賽)]
