@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bob / Site Title"
+title                    : "Heng-An Cheng"
 title_separator          : "-"
 name                     : &name "Heng-An Cheng"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "hacheng0193/hacheng0193.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Heng-An Cheng" # Name of the author, used in the sidebar and footer
   pronouns         : # example: "she/her"  
-  bio              : "Here we goooo"
+  bio              : "Double Major student in ECE & CS at NYCU, Taiwan. Ex-exchange Student at UIUC, IL, USA."
   location         : "Earth"
   employer         : "NYCU"
   uri              : # URL
@@ -212,7 +212,7 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -221,7 +221,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
